@@ -36,5 +36,4 @@ about:
   dev_url: https://github.com/slezica/python-frozendict
 
 extra:
-  recipe-maintainers:
-    - ltalirz
+  recipe-maintainers: []
